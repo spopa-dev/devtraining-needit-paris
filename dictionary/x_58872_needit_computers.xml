@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="computers" max_length="40" name="x_58872_needit_computers" sizeclass="96" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Class" label="Class" max_length="40" name="u_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LOCATION" label="LOCATION" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MODEL ID" label="MODEL ID" max_length="40" name="u_model_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Order Request" label="Order Request" max_length="40" name="u_order_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PO number" label="PO number" max_length="40" name="u_po_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial number" label="Serial number" max_length="40" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor" label="Vendor" max_length="40" name="u_vendor" type="string"/>
+    </element>
+</database>
